@@ -1,0 +1,55 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Docker
+  logo: /images/sections/skills/docker.svg
+  summary: "Capable of writing most of the programs as dockerized containers."
+  url: "https://www.docker.com/"
+
+- name: JavaScript
+  logo: /images/sections/skills/javascript.png
+  summary: "Good understanding of JavaScript concepts, including closures, asychronous programming and ES6+ syntax."
+  url: "https://www.javascript.com/"
+
+- name: Bootstrap
+  logo: /images/sections/skills/bootstrap.png
+  summary: "Familliar with Bootstrap - CSS library. Using for develop responsive, mobile-first websites."
+  url: "https://getbootstrap.com/"
+
+- name: Vue
+  logo: /images/sections/skills/vue.png
+  summary: "Experienced with Vue.js 3 to create complex and responsive web applications. Familiarity with Vue.js tooling and libriaries such as Vuetify."
+  url: "https://vuejs.org/"
+
+- name: NestJS
+  logo: /images/sections/skills/nestjs.png
+  summary: "Experienced in using NestJS to build simple web applications with CRUD functionality and Moongose for database integration."
+  url: "https://nestjs.com/"
+
+- name: Laravel
+  logo: /images/sections/skills/laravel.png
+  summary: "Familiarity with Laravel, a PHP framework. Experienced in using to build simple web applications with CRUD functionality and database integration."
+  url: "https://laravel.com/"
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Experienced with git-based development."
+  url: "https://git-scm.com/"
+
+- name: Databases(SQL and NoSQL)
+  logo: /images/sections/skills/database.png
+  summary: "Capable of design and maintain databases, including MySQL, MS SQL and MongoDB."
+
+- name: Others
+  logo: /images/sections/skills/others.png
+  summary: "Familiar with Ansible, Postman/Insomnia for building and using APIs."

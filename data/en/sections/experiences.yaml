@@ -1,0 +1,53 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: All Windows Group
+    url: "https://allwindows.eu/"
+    location: Nysa, Poland
+    overview: All Windows Group is a Polish, renowned manufacturer of doors and windows. It has been operating on the international market for 26 years.
+  positions:
+  - designation: Intern
+    start: Jan 2023
+    end: Feb 2023
+    responsibilities:
+    - Creating and developing web applications that provide functionality, responsiveness and visual appeal.
+    - Database design and management.
+    - Performance optimization of code.
+
+- company:
+    name: Centrum Sp. z.o.o - Galeria Nyska
+    url: "https://galerianyska.pl/"
+    location: Nysa, Poland
+    overview: Galeria Nyska is a small shopping mall located in the center of Nysa.
+  positions:
+  - designation: Intern (Marketing department)
+    start: Jul 2022
+    end: Aug 2022
+    responsibilities:
+    - Creating graphics for social media posts (Facebook, Instagram).
+    - Design of graphic announcements, banners, mailings for events.
+    - Creating a simple mobile application showing an animation of a ball bouncing off the screen.
+
+- company:
+    name: Nyska Energetyka Cieplna (NEC)
+    url: "https://www.necnysa.eu/"
+    location: Nysa, Poland
+    overview: Nyska Energetyka Cieplna (NEC) - conducts economic activity in the field of production, transmission and distribution of heat and electricity generation in the city and municipality of Nysa.
+  positions:
+  - designation: Intern
+    start: Aug 2021
+    end: Sep 2021
+    responsibilities:
+    - Installation and configuration of computer and network equipment.
+    - Diagnosing and resolving hardware and network failures.
+    - Supervising the work of the data server (creation of backups).
