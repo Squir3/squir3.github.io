@@ -42,3 +42,10 @@ projects:
   summary: JavaScript Memory Game. Check it out <a href="https://squir3.github.io/Simple-memory/">here.</a>
   tags: ["memory", "game", "javascript"]
 
+- name: Engineering Thesis
+  logo: /images/sections/projects/devops.png
+  summary: Presentation of my Engineering Thesis about application of DevOps technologies in the process of creating and implementing WEB application. Check it out <a href="https://1drv.ms/p/s!AqMrcCGNdNo1nDG6rvvPIXGl-LNR?e=giufoY">here.</a>
+  tags: ["engineering", "thesis", "devops", "vue", "nest", "docker", "ansible", "jenkins", "nginx"]
+
+
+
