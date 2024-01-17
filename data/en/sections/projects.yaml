@@ -38,7 +38,7 @@ projects:
 - name: Memory Game
   logo: /images/sections/projects/memory.png
   role: Contributor
-  repo: https://github.com/Squir3/Simple-hangman
+  repo: https://github.com/Squir3/Simple-memory
   summary: JavaScript Memory Game. Check it out <a href="https://squir3.github.io/Simple-memory/">here.</a>
   tags: ["memory", "game", "javascript"]
 
